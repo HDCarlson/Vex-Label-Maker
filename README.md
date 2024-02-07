@@ -4,12 +4,6 @@ Fill out the CSV, it must be in the same format and named "Parts.csv".
 
 Then, Run "RunME.py"
 
-List of Python libs (in the virtualenv):
-
-    pandas
-    scrapy
-    pillow
-    qrcode
-    wand
+pip install -r requirements.txt if there is an error with libraries
 
 
